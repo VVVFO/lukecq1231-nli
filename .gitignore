@@ -1,0 +1,8 @@
+*.swp
+*.pyc
+log.txt
+
+data/binary_tree/
+data/glove/
+data/snli/
+data/word_sequence/
