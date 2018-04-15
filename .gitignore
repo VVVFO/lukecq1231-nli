@@ -8,3 +8,4 @@ data/snli/
 data/word_sequence/
 
 venv_nli/
+venv/
