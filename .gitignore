@@ -1,6 +1,8 @@
 *.swp
 *.pyc
-log.txt
+
+*.npz
+*.pkl
 
 data/binary_tree/
 data/glove/
